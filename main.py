@@ -205,5 +205,5 @@ def save_following_data(data):
         print(f"Error saving following data: {e}")
 
 # Replace with your Discord bot token
-bot.run('MTI3Mjk2NDgzODAyODQ4MDU3Mw.GqT7em.vxoOTUuksUgvYO9SSzG8egG7DlvUyujQ0COrbM')
+bot.run('your bot token here')
       
