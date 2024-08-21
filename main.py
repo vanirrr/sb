@@ -6,8 +6,8 @@ import os
 import json
 
 # Replace with your Instagram credentials
-INSTAGRAM_USERNAME = 'vbot_api'
-INSTAGRAM_PASSWORD = 'gam555enM'
+INSTAGRAM_USERNAME = 'insta user'
+INSTAGRAM_PASSWORD = 'insta pass'
 
 # Create a new Discord bot client with a specific command prefix
 bot = commands.Bot(command_prefix='v', intents=discord.Intents.all())
